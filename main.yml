@@ -5,5 +5,5 @@
 
 - tasks:
   - name: test message
-  - debug:
-    msg: "this is test message"
+    debug:
+      msg: "this is test message"
