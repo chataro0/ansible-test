@@ -1,0 +1,9 @@
+---
+
+- hosts: localhost
+- connection: local
+
+- tasks:
+  - name: test message
+  - debug:
+    msg: "this is test message"
