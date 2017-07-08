@@ -6,4 +6,4 @@
   tasks:
   - name: test message
     debug:
-      msg: "this is test message develop2"
+      msg: "this is test message develop"
